@@ -1,3 +1,3 @@
 # FE-Task-HTML-CSS-JS
 
-![Alt Text](assets\DEMO.gif)
+<img src="src\assets\DEMO.gif" alt="Alt Text" />
